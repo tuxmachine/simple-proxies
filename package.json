@@ -9,7 +9,6 @@
   },
   "main": "./lib/simple-proxies.js",
   "dependencies": {
-    "net-ping": "*",
     "request": "*",
     "async": "*",
     "underscore": "*",
